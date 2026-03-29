@@ -1,10 +1,6 @@
 # Hybrid Movie Recommendation System
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[Live Demo](https://huggingface.co/spaces/YOUR_USERNAME/movie-recommender) | [Documentation](#documentation)
-
+[Documentation](#documentation)
 ## Overview
 
 A production-ready hybrid recommendation engine that combines collaborative filtering and content-based approaches to provide personalized movie recommendations while handling real-world challenges like data sparsity, cold-start problems, and class imbalance.
@@ -299,9 +295,9 @@ MIT License - see LICENSE file for details
 
 ## Contact
 
-[Your Name] - [your.email@example.com]
+Anugu Chaithanya - canugu15@gmail.com
 
-Project Link: [https://github.com/YOUR_USERNAME/hybrid-recommendation-system](https://github.com/YOUR_USERNAME/hybrid-recommendation-system)
+Project Link: [https://github.com/chaithanya-15/hybrid-recommendation-system](https://github.com/chaithanya-15/hybrid-recommendation-system)
 
 ---
 
