@@ -11,3 +11,4 @@ pydantic==2.3.0
 python-multipart==0.0.6
 requests==2.31.0
 scipy==1.11.2
+scikit-surprise==1.1.4
